@@ -1,0 +1,7 @@
+keras==3.3.3
+Markdown==3.6
+markdown-it-py==3.0.0
+numpy==1.26.4
+pandas==2.2.2
+tensorflow==2.16.1
+tensorflow-intel==2.16.1
