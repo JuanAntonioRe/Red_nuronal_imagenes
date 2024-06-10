@@ -1,2 +1,3 @@
-# Red_nuronal_imagenes
-Este modelo entrena solo 1 red neuronal para con imagenes de prendas de vestir
+# Red neuronal para entrenamiento de imágenes
+
+Este modelo usa sólo una red neuronal para entrenar el modelo y predecir que tipo de prenda de vestir es la que aparece en la imagen.
